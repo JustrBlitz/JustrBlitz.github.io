@@ -1,2 +1,2 @@
 # ***JustrBlitz.github.io***
-***Christian Dale C Oliva***
+Christian Dale C Oliva
